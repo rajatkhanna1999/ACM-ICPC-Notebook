@@ -1,0 +1,44 @@
+# Any line followed by a '#' character is ignored
+# Section headings must be in square brackets
+# Subsections within a section should follow the format:
+#   [filename within code directory][tab character \t][subsection title]
+
+[Shortcuts]
+template.cpp	Template CPP
+builtFunc.cpp	Inbuilt Functions
+
+[Data Structures]
+segTree.cpp	Segment Tree
+fenwickTree.cpp	Fenwick Tree
+unionFind.cpp	Union Find
+
+[Bit Manipulation]
+bitManip.cpp	Bit Manipulation
+
+[Graph Algorithms]
+dijkstra_and_bellmanFord.cpp	Shortest Path
+warshall.cpp	Warshall
+matching.cpp	Matching
+maxflow.cpp	Max Flow
+SCC.cpp	Strongly Connected Components
+
+[Number Theory]
+numberTheory.cpp	Number Theory
+extendedEuclidean.cpp	Extended Euclidean Function
+modularInverse.cpp	Modular Inverse
+nCrModP.cpp	nCr Modulo P
+
+[String Matching]
+kmp.cpp	KMP
+z_algo.cpp	Z-Algorithm
+trie.cpp	Trie
+
+[LCA and LIS]
+LCA.cpp	LCA
+LIS.cpp	LIS
+
+[Computational Geometry]
+points_lines.cpp	Points and Lines
+circles.cpp	Circles
+triangles.cpp	Triangles
+polygon.cpp	Polygon

@@ -1,0 +1,32 @@
+\BOOKMARK [1][-]{section.1}{Shortcuts}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Template CPP}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Inbuilt Functions}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Data Structures}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Segment Tree}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Fenwick Tree}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Union Find}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{Bit Manipulation}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{Bit Manipulation}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Graph Algorithms}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{Shortest Path}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.2}{Warshall}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.3}{Matching}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.4}{Max Flow}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.5}{Strongly Connected Components}{section.4}% 15
+\BOOKMARK [1][-]{section.5}{Number Theory}{}% 16
+\BOOKMARK [2][-]{subsection.5.1}{Number Theory}{section.5}% 17
+\BOOKMARK [2][-]{subsection.5.2}{Extended Euclidean Function}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.3}{Modular Inverse}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.4}{nCr Modulo P}{section.5}% 20
+\BOOKMARK [1][-]{section.6}{String Matching}{}% 21
+\BOOKMARK [2][-]{subsection.6.1}{KMP}{section.6}% 22
+\BOOKMARK [2][-]{subsection.6.2}{Z-Algorithm}{section.6}% 23
+\BOOKMARK [2][-]{subsection.6.3}{Trie}{section.6}% 24
+\BOOKMARK [1][-]{section.7}{LCA and LIS}{}% 25
+\BOOKMARK [2][-]{subsection.7.1}{LCA}{section.7}% 26
+\BOOKMARK [2][-]{subsection.7.2}{LIS}{section.7}% 27
+\BOOKMARK [1][-]{section.8}{Computational Geometry}{}% 28
+\BOOKMARK [2][-]{subsection.8.1}{Points and Lines}{section.8}% 29
+\BOOKMARK [2][-]{subsection.8.2}{Circles}{section.8}% 30
+\BOOKMARK [2][-]{subsection.8.3}{Triangles}{section.8}% 31
+\BOOKMARK [2][-]{subsection.8.4}{Polygon}{section.8}% 32
